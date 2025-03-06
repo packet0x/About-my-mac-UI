@@ -10,6 +10,12 @@ Ever wanted to brag about your *fake* Mac specs without actually buying one?  We
 4.  **Customize it?** Go wild! Change the specs, add features, make it even *more* ridiculous.  (But seriously, it's just HTML and CSS.)
 5.  **Show it off!** Deploy it to GitHub Pages (or anywhere else) and fool your friends.
 
+## Note
+
+I SET THE WRONG IMAGE SO YOUR FOOL CAN BE DEFECTIVE EASILY LOLOLOL
+
 ## License
 
 [MIT License](LICENSE) (Because sharing is caring, even fake Mac info.)  But, like, don't try to sell this as a real operating system.  Apple might get a *little* upset. 😉
+
+
