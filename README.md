@@ -12,7 +12,7 @@ Ever wanted to brag about your *fake* Mac specs without actually buying one?  We
 
 ## Note
 
-I SET THE WRONG IMAGE SO YOUR FOOL CAN BE DEFECTIVE EASILY LOLOLOL
+I PUT THE IMAGE WRONG SO YOUR JOKE MAY BE EXPOSED EASYIL LOLOLOL
 
 ## License
 
