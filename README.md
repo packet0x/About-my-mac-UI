@@ -13,9 +13,3 @@ Ever wanted to brag about your *fake* Mac specs without actually buying one?  We
 ## Note
 
 I PUT THE IMAGE WRONG SO YOUR JOKE MAY BE EXPOSED EASYIL LOLOLOL
-
-## License
-
-[MIT License](LICENSE) (Because sharing is caring, even fake Mac info.)  But, like, don't try to sell this as a real operating system.  Apple might get a *little* upset. 😉
-
-
